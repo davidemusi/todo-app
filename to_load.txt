@@ -1,0 +1,3 @@
+To run the server, run below line of code on your terminal
+
+uvicorn main:app --reload
